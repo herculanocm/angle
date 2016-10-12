@@ -1,0 +1,18 @@
+`1.1 08/10/2014`
+
+- Added Profile
+- Added Todo List 
+- Added changed and livereload to gulp file
+- Removed store.js in favor of native storage support
+- Removed w3c from gulp file (optional)
+- Fix on sidebar item active class check 
+- Fix modules dependency injection
+- Fix chart y axis position on RTL
+- Update timeline component
+- Update calendar component
+- Update node package modules
+- Updated documentation
+
+`1.0 30/09/2014`
+
+- Initial release
